@@ -12,12 +12,8 @@ This is a recorded class that covers key concepts related to protection and secu
 ### [Why Do We Need to Learn C?](https://www.quora.com/Why-is-Linux-kernel-written-in-C-and-not-C++-given-that-C++-is-more-flexible-and-one-can-write-C-code-in-C++-as-well#:~:text=There%20is%20no%20simple%20answer,practically%20no%20real%20C%2B%2B%20compilers.)
 This Quora discussion answers the question, "Why is the Linux kernel written in C and not C++?" It explains the core reasons why C remains an essential language in operating system development. The discussion provides solid motivation to learn C, especially in the context of system efficiency and its advantages over other languages.
 
-## Week 3: File System & FUSE
-
-### [Introduction to File Systems and FUSE](https://www.youtube.com/watch?v=PBkZynNIZWk&ab_channel=M.AnwarMa%27sum)
-This video provides an introduction to file systems and the Filesystem in Userspace (FUSE). It discusses the structure of file systems and how FUSE allows for custom file systems to run in user space rather than kernel space.
 
 ---
 
-###### Last updated: Sunday, 24 September 2024, 21:42
+###### Last updated: Sunday, 15 September 2024, 22:49
 

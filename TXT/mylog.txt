@@ -6,13 +6,13 @@ ZCZC W00 100 L02 OS Scele
 ZCZC W00 100 L02 OS Scele
 ZCZC W00 20 L10 Weekly Assignment #00
 ZCZC W00 30 L05 Studying For Quiz
-ZCZC W00 10 L05 Quiz #1
+ZCZC W00 10 L05 Quiz #0
 
 ===== W01 =====
 ZCZC W01 100 L02 OS Scele
 ZCZC W01 100 L02 OS Scele
 ZCZC W01 30 L05 Studying For Quiz
-ZCZC W01 10 L05 Quiz #2
+ZCZC W01 10 L05 Quiz #1
 ZCZC W01 240 L11 Weekly Assignment #01
 
 ===== W02 =====
@@ -30,6 +30,13 @@ ZCZC W03 50 L13 Weekly Assignment #03
 ZCZC W03 30 L13 Weekly Pop Quiz #03
 ZCZC W03 10 L13 Weekly Assignment #03
 
+===== W04 =====
+ZCZC W04 100 L02 OS Scele
+ZCZC W04 100 L02 OS Scele
+ZCZC W04 50 L05 Studying For Quiz
+ZCZC W04 10 L05 Quiz #3
+ZCZC W04 60 L14 Weekly Assignment #04
+ZCZC W04 60 L14 Weekly Pop Quiz #04
 
 
 

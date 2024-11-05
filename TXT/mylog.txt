@@ -55,7 +55,13 @@ ZCZC W06 100 L16 Weekly Assignment #06
 ZCZC W06 100 L16 Weekly Pop Quiz #06
 ZCZC W06 100 L16 Docusaurus Pop Quiz
 
-
+===== W07 =====
+ZCZC W07 100 L02 OS Scele
+ZCZC W07 100 L02 OS Scele
+ZCZC W07 50 L05 Studying For Quiz
+ZCZC W07 19 L05 Quiz #6
+ZCZC W07 100 L17 Weekly Assignment #07
+ZCZC W07 100 L17 Weekly Pop Quiz #07
 
 
 
